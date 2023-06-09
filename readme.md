@@ -13,7 +13,8 @@ For example, [here](http://insideairbnb.com/amsterdam/) is the dashboard for the
 
 ## Research Question
 The overarching research question that we aim to investigate is:
-How did the Airbnb market in Amsterdam respond to the COVID-19 pandemic in terms of bookings per neighborhood?
+
+*How did the Airbnb market in Amsterdam respond to the COVID-19 pandemic in terms of bookings per neighborhood?*
 
 ## Methodology
 To get to an answer, we need a multitude of input, transformation, and output steps. We'll use make to automate our workflows and make them reproducible. As data on Inside Airbnb is updated monthly, our program should still work once new data becomes available or if we change the city from Amsterdam to, for example, New York.
