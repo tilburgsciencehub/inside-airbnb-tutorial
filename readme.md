@@ -5,7 +5,7 @@ How did the Airbnb market in Amsterdam respond to the COVID-19 pandemic in terms
 </div>
 
 ## About The Project
-Inside Airbnb is an independent open-source data tool developed by community activist Murray Cox who aims to shed light on how Airbnb is being used and affecting neighborhoods in large cities. The tool provides a visual overview of the amount, availability, and spread of rooms across a city, an approximation of the number of bookings and occupancy rate, and the number of listings per host.
+[Inside Airbnb](http://insideairbnb.com/) is an independent open-source data tool developed by community activist Murray Cox who aims to shed light on how Airbnb is being used and affecting neighborhoods in large cities. The tool provides a visual overview of the amount, availability, and spread of rooms across a city, an approximation of the number of bookings and occupancy rate, and the number of listings per host.
 
 For example, [here](http://insideairbnb.com/amsterdam/) is the dashboard for the city of Amsterdam. The animation below illustrates how the number of listings have been growing rapidly throughout the years:
 
