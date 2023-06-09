@@ -1,9 +1,11 @@
 <h3 align="center">Inside AirBnB - Workflow Walkthrough</h3>
 <p align="center">
 How did the Airbnb market in Amsterdam respond to the COVID-19 pandemic in terms of bookings per neighborhood?
-**Check out the tutorial on [Tilburg Science Hub](https://tilburgsciencehub.com/tutorials/more-tutorials/airbnb-workflow/airbnb-workflow-overview/)**
   </p>
 </div>
+
+## Link to the tutorial
+**Check out the tutorial on [Tilburg Science Hub](https://tilburgsciencehub.com/tutorials/more-tutorials/airbnb-workflow/airbnb-workflow-overview/)**
 
 ## About The Project
 [Inside Airbnb](http://insideairbnb.com/) is an independent open-source data tool developed by community activist Murray Cox who aims to shed light on how Airbnb is being used and affecting neighborhoods in large cities. The tool provides a visual overview of the amount, availability, and spread of rooms across a city, an approximation of the number of bookings and occupancy rate, and the number of listings per host.
