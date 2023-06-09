@@ -33,7 +33,7 @@ plot <- ggplot() +
   geom_line(data = filtered_data, aes(x = month, y = !!sym(top_3_neighbourhoods[[1]]), color = "blue")) +
   geom_line(data = filtered_data, aes(x = month, y = !!sym(top_3_neighbourhoods[[2]]), color = "red")) +
   geom_line(data = filtered_data, aes(x = month, y = !!sym(top_3_neighbourhoods[[3]]), color = "green")) +
-  labs(title = "Total Number of Reviews over Time for Top 3 neighbourhoods",
+  labs(title = "Total Number of Reviews over Time for Top 3 Neighbourhoods",
        x = '', y = "Total Number of Reviews") +
   scale_color_manual(values = c("blue", "red", "green"),
                      labels = c(top_3_neighbourhoods[[1]], top_3_neighbourhoods[[2]], top_3_neighbourhoods[[3]]),

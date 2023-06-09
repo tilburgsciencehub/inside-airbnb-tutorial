@@ -1,5 +1,6 @@
 # Load needed libraries
 library(readr)
+library(dplyr)
 library(tidyverse)
 
 # Import the data from gen/data-preparation/aggregated_df.csv

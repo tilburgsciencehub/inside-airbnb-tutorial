@@ -1,5 +1,6 @@
 # Load needed libraries
 library(readr)
+library(dplyr)
 library(ggplot2)
 
 # Import the data from gen/data-preparation/aggregated_df.csv
